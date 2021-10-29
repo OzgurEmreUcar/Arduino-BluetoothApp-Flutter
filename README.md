@@ -1,9 +1,10 @@
+
 # Arduino-BluetoothApp-Flutter
 [EN] Communicating arduino and android device with flutter app.
-App includes buzzer control, led control and LCD control. Before use the app please check your minSdk it should be 19.
+App includes buzzer control, led control, 8x8 Matrix cobtrol and LCD control. Before use the app please check your minSdk it should be 19.
 
 [TR] Arduino ve android cihaz arasında iletişim kurmak için kullanılabilecek flutter app.
-Buzzer, led ve LCD kontrolü yapılabilmekte. App'in çalışması için minSdk'nın 19 olması gerekiyor.
+Buzzer, led, 8x8 Matrix ve LCD kontrolü yapılabilmekte. App'in çalışması için minSdk'nın 19 olması gerekiyor.
 
 [EN] Images from app.
 [TR] Uygulama içi görseller.
@@ -14,5 +15,7 @@ Buzzer, led ve LCD kontrolü yapılabilmekte. App'in çalışması için minSdk'
 <img src="https://user-images.githubusercontent.com/58305294/138876241-af0cbeeb-41f2-48ff-97b9-42652a3eac20.jpeg" width="525" height="730">
 <img src="https://user-images.githubusercontent.com/58305294/138876243-75327dd4-b0a2-48b9-9e67-72187dc6a100.jpeg" width="525" height="730">
 <img src="https://user-images.githubusercontent.com/58305294/138876247-d1a167a6-b3f2-43e3-912e-0550291be861.jpeg" width="525" height="730">
+<img src="https://user-images.githubusercontent.com/58305294/139428492-a6009e53-a72c-4551-bcca-527fb6da3b60.jpeg" width="525" height="730">
+<img src="https://user-images.githubusercontent.com/58305294/139428488-ea28049e-0b9e-4d0d-98d7-b0d6043b7165.jpeg" width="525" height="730">
 
 
